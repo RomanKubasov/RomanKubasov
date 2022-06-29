@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub...
 
-<!--
-**RomanKubasov/RomanKubasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about me
+I'm Full Stack developer
 
-Here are some ideas to get you started:
+Current stack: JavaScript, HTML, CSS, SQL, node.js, Postgres; React JS, Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### interests
+I like travelling and active sports (beach soccer, rock climbing, snowboarding, windsurfing).
+
+![Git background](https://user-images.githubusercontent.com/102286250/176498688-94163ba6-1178-446a-aacc-3cf878c7d9d3.jpg)
+
+### my contacts:
+email - roman.kubasov@gmail.com
+
+TG - [@RomanKubasov](@RomanKubasov)
+
