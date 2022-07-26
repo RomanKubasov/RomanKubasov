@@ -1,7 +1,7 @@
 ## Welcome to my GitHub &#9889;... 
 
 ```
-I'm Full Stack developer </p>
+I'm Full Stack developer
 JavaScript, HTML, CSS, SQL, node.js, Postgres, React JS, Redux
 
 I like travelling and active sports (beach soccer, rock climbing, snowboarding, windsurfing).
